@@ -52,6 +52,9 @@ alias gc='git commit -m'
 alias gp='git push'
 alias gl='git pull'
 
+# ls
+alias ll='ls -al'
+
  # ##########################
  ### Load Starship Prompt ###
  ############################
